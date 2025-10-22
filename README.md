@@ -26,4 +26,4 @@
 ## Installation
 1. Clone the repo:  
 ```bash
-[git clone https://github.com/<username>/WiFi-Attack-Defender.git](https://github.com/Osama-web-dev/wifi-impoersonation-detector-attack-defender.git)
+https://github.com/Osama-web-dev/wifi-impoersonation-detector-attack-defender.git
