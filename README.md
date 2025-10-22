@@ -52,3 +52,10 @@ python app.py
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
+---
+
+## Screenshots
+![Home Page](./ouput/HomePage.png)
+![Networks Scanned](./ouput/NetworksScanned.png)
+![Generating Evil Twins 1](./ouput/Generating-Evil-Twins-1.png)
+![Generating Evil Twins 2](./ouput/Generating-Evil-Twins-2.png)
