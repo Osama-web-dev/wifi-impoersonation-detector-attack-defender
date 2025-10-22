@@ -55,7 +55,11 @@ Feel free to fork the repo and submit a pull request.
 ---
 
 ## Screenshots
+- **Home Page**
 ![Home Page](./ouput/HomePage.png)
+- **After Scanning Network**
 ![Networks Scanned](./ouput/NetworksScanned.png)
+- **Simulating Twins**
 ![Generating Evil Twins 1](./ouput/Generating-Evil-Twins-1.png)
+- **Twins Simulated**
 ![Generating Evil Twins 2](./ouput/Generating-Evil-Twins-2.png)
