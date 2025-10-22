@@ -27,3 +27,28 @@
 1. Clone the repo:  
 ```bash
 https://github.com/Osama-web-dev/wifi-impoersonation-detector-attack-defender.git
+```
+
+2. Install dependencies:  
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the dashboard:
+```bash
+python app.py
+```
+
+---
+
+## Usage
+- Start monitoring Wi-Fi networks and wait for alerts.
+- Access the web dashboard at http://localhost:5000
+- View attack logs, device fingerprints, and countermeasure actions in real-time.
+
+---
+
+## Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
